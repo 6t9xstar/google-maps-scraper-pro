@@ -254,14 +254,14 @@ Contributions are welcome! Here's how:
 ## ⭐ Star History
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/google-maps-scraper&type=Date)](https://star-history.com/#yourusername/google-maps-scraper&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=6t9xstar/google-maps-scraper-pro&type=Date)](https://star-history.com/#6t9xstar/google-maps-scraper-pro&Date)
 
 
 ## 🙏 Acknowledgments
 
 - [Playwright](https://playwright.dev) - Browser automation
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - Modern GUI
-- [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - Inspiration
+- [gosom/google-maps-scraper](https://github.com/6t9xstar/google-maps-scraper-pro) - Inspiration
 
 
 ---
@@ -269,3 +269,5 @@ Contributions are welcome! Here's how:
 **Made with ❤️ for the open source community**
 
 If this tool helped you, please ⭐ **Star** this repository!
+
+Any Issues Email: mtaimoormalik99@gmail.com
