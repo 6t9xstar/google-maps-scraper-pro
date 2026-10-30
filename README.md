@@ -1,5 +1,7 @@
 # Google Maps Scraper Pro 🗺️
 
+![GitHub stars](https://img.shields.io/github/stars/6t9xstar/google-maps-scraper-pro?style=social)
+
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/6t9xstar/google-maps-scraper-pro?style=social)
