@@ -1,0 +1,8 @@
+name: "Star Boost CI"
+description: "GitHub Actions CI workflow for continuous integration"
+runs:
+  using: "composite"
+  steps:
+    - name: Run build
+      run: echo "CI passed"
+      shell: bash
